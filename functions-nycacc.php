@@ -1334,10 +1334,6 @@ add_shortcode('upcoming_communitykid_events', 'upcoming_communitykid_events');
 
 
 
-"testing the code "
-
-
-
 
 
 
